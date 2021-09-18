@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.header {
+    width: 60%;
+    margin: 0 auto;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.main {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border: 2px solid black;
+    height: 70vh;
+}
+
+.box {
+    border: 2px solid black;
+    margin-top: 2%;
+    height: 60vh;
+    padding-top: 2%;
+}
